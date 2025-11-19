@@ -13,3 +13,9 @@ How to add your code:
 6. Click Commit!
 7. Code can then be merged into main program once tested.
 8. That's basically it!
+
+## Important!
+Once the bones of the program are created, and we have a mainproject.cpp file we can start merging contributions.
+After this, it will be important **EACH TIME** you begin working on new code, to check the mainproject.cpp file for
+changes. In other words, you'll want to be working off of the LATEST updated file, and not the one you downloaded
+4 days ago. Hope that makes sense. 
