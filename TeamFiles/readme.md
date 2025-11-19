@@ -12,3 +12,4 @@ How to add your code:
 5. Choose "Commit directly to the main branch" (safe because we'll review later)
 6. Click Commit!
 7. Code can then be merged into main program once tested.
+8. That's basically it!
