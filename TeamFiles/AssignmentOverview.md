@@ -11,16 +11,17 @@ The program must allow the librarian to add copies of books, add clients, let a 
 In this programming assignment, you will develop a project that implements an engineering library. You will implement and test structures in this project. They are the BookType, ClientRecord.
 Functions needed for the program are:
 
-● A addBook function
-● A addClient function
-● A saveBookList function
-● A borrowBook function.
-● A returnBook function.
-Structures should include:
+- A addBook function
+- A addClient function
+- A saveBookList function
+- A borrowBook function.
+- A returnBook function.
 
-● The six comparison operators.
-● The assignment operator=.
-● The operator << (as a friend function).
+Structures should include:
+- The six comparison operators.
+- The assignment operator=.
+- The operator << (as a friend function).
+  
 ## DELIVERABLES
 Present the project to your class with all the function definitions and the main function.
 1. Specify the file as "yourteaminitials_library.cpp"
