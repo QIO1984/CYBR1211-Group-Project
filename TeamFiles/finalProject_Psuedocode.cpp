@@ -1,5 +1,5 @@
 //This file is a pseudocode representation of the final project for CYBR1211 Group Project
-//intended to outline the structure and logic of the C++ program.
+//intended to outline the structure and logic of the C++ program. 
 
 
 #include <iostream> //Include libraries - remove or ad as needed
