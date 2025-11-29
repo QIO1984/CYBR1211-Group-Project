@@ -19,3 +19,9 @@ Once the bones of the program are created, and we have a mainproject.cpp file we
 After this, it will be important **EACH TIME** you begin working on new code, to check the mainproject.cpp file for
 changes. In other words, you'll want to be working off of the LATEST updated file, and not the one you downloaded
 4 days ago. Hope that makes sense. 
+
+## Project Timeline Notes
+- 11/28 - Added psuedo code file as basic project structure. A "Starter File" if you will. Open to suggestions as always, but this seems like a good place to start. To start, download locally or clone repository and code away!
+
+## To-Do List
+- It would probably be helpful to have a program flow diagram for the "int main" part. In other words, what is the user experience? Is there a greeting? What is the first menu? How should the program actually take the user through the process?
